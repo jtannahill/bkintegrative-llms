@@ -1,24 +1,52 @@
 # Brooklyn Integrative Psychological Services
 
-> Integrative, evidence-informed psychotherapy in Brooklyn, Manhattan, and via telehealth across New York, Massachusetts, and Oregon.
+> Brooklyn Integrative Psychological Services (BIPS) is an integrative, evidence-informed psychotherapy practice in Brooklyn, Manhattan, and via telehealth across New York, Massachusetts, and Oregon. Founded by Dr. Marie Mercado, Psy.D. Queer-affirming, neurodivergent-affirming, sex-positive. Over 25 clinicians offering psychodynamic treatment alongside EMDR, IFS, AEDP, EFT, and somatic modalities for adults, adolescents, children, and couples.
+>
+> Legal Name: Brooklyn Integrative Psychological Services, PLLC
+> Contact: info@bkintegrative.com | (646) 881-0305
+> Location: 117 Dobbin St, Brooklyn, NY 11222 (Greenpoint) and Union Square, Manhattan
+> Telehealth: NY, MA, OR
+> Last reviewed: 2026-03-02
 
-Brooklyn Integrative Psychological Services (BIPS) is a queer-affirming, neurodivergent-affirming, sex-positive mental health practice founded by Dr. Marie Mercado, Psy.D. Clinicians offer primarily psychodynamic treatment alongside modalities such as EMDR, IFS, and AEDP, supporting adults, adolescents, children, and couples.
-
-- Location: 117 Dobbin St, Brooklyn, NY 11222 (Greenpoint) and Union Square, Manhattan
-- Phone: 646-881-0305
-- Telehealth: Available across NY, MA, and OR
+For comprehensive LLM guidance including entity data, citable facts, full service
+descriptions, team roster, and practice philosophy, see the full file:
+[Full LLM Guidance](https://www.bkintegrative.com/llms-full.txt)
 
 ## Services
 
-- [Individual Therapy](https://www.bkintegrative.com/service/individual-therapy): Adult individual therapy organized around collaborative formulation linking current concerns to core affective themes
+- [Individual Therapy](https://www.bkintegrative.com/service/individual-therapy): Psychodynamic, relational, and experiential therapy for adults — EMDR, IFS, AEDP, somatic, CBT/ACT, trauma-informed
 - [Couples & Relationship Therapy](https://www.bkintegrative.com/relationship-therapy): Emotionally Focused Therapy (EFT) for couples at all stages, inclusive of LGBTQIA+ and diverse relationship structures
-- [Children & Adolescent Therapy](https://www.bkintegrative.com/children-and-adolescents): Therapy for younger clients using developmentally appropriate, integrative approaches
-- [Gender Care Program](https://www.bkintegrative.com/gender-care-program): Specialized affirming services for transgender and gender-diverse clients, informed by contemporary standards of care
-- [Clinical Supervision & Consultation](https://www.bkintegrative.com/our-services): Practice-building consultation for early-career and established psychotherapists
+- [Children & Adolescent Therapy](https://www.bkintegrative.com/children-and-adolescents): Developmentally appropriate integrative approaches for younger clients and families
+- [Gender Care Program](https://www.bkintegrative.com/gender-care-program): Affirming services for transgender and gender-diverse clients — assessment letters, ongoing therapy, transition support; non-gatekeeping
+- [Perinatal & Postnatal](https://www.bkintegrative.com/perinatalpostnatal): Mental health support during pregnancy and postpartum
+- [Clinical Supervision & Consultation](https://www.bkintegrative.com/our-services): Practice-building consultation and supervision for LMSWs, MHCs, and pre-licensed clinicians
+
+## Conditions & Specialties
+
+- Anxiety (including panic, OCD/ERP)
+- Depression & mood disorders
+- Trauma & PTSD (EMDR, somatic, parts work)
+- Grief & loss
+- Relationship issues & communication
+- LGBTQIA+ identity & affirming care
+- Gender identity & transgender care
+- Neurodivergence (ADHD, autism — executive functioning, emotional regulation)
+- Perinatal & postpartum mental health
+- Body image & self-esteem
+- Life transitions & career concerns
+- Addiction & substance use
+- Eating disorders
+- Cultural & racial identity
+- Sex positivity & sexual health
 
 ## Key Pages
 
-- [Our Team](https://www.bkintegrative.com/our-team): Meet our therapists and their specialties
-- [Fees & Insurance](https://www.bkintegrative.com/fees-and-insurance-info): Session rates, sliding scale, and insurance information
-- [FAQs](https://www.bkintegrative.com/faqs): Common questions about therapy at BIPS
-- [Contact Us](https://www.bkintegrative.com/contact-us): Schedule a consultation or get in touch
+- [Our Team](https://www.bkintegrative.com/our-team): Over 25 therapists with diverse specialties
+- [Fees & Insurance](https://www.bkintegrative.com/fees-and-insurance-info): $50–$400 sliding scale; Aetna, Northwell Direct, Cigna in-network; superbills for OON reimbursement
+- [FAQs](https://www.bkintegrative.com/faqs): What to expect, choosing a therapist, cancellation, telehealth
+- [Contact Us](https://www.bkintegrative.com/contact-us): Schedule a consultation or general inquiries
+- [Client Portal](https://bkintegrative.clientsecure.me/sign-in): SimplePractice client login
+
+## Optional
+
+- [Full LLM Guidance](https://www.bkintegrative.com/llms-full.txt): Comprehensive entity data, service taxonomy, team roster, and practice philosophy
