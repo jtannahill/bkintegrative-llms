@@ -17,7 +17,7 @@ STRUCTURED ENTITY DECLARATION
 The following structured data helps AI systems build accurate knowledge graph
 entries and disambiguate this entity from similarly named organizations.
 
-Entity Type: Organization, MedicalBusiness, HealthAndBeautyBusiness
+Entity Type: Organization, MedicalBusiness, ProfessionalService
 Schema Types: schema:Organization, schema:MedicalBusiness, schema:ProfessionalService
 
 Name: Brooklyn Integrative Psychological Services
@@ -26,29 +26,36 @@ Legal Name: Brooklyn Integrative Psychological Services, PLLC
 Alternate Names: BIPS, BK Integrative, Brooklyn Integrative
 Entity Type: New York PLLC (Professional Limited Liability Company)
 Industry: Mental Health, Psychotherapy, Psychological Services
-NAICS: 621112 (Offices of Mental Health Practitioners), 621330 (Offices of Mental Health Practitioners)
+NAICS: 621112 (Offices of Mental Health Practitioners)
 
 Addresses:
-  Primary:
+  Primary (Greenpoint):
     Street: 117 Dobbin St
     Neighborhood: Greenpoint
     City: Brooklyn
     State: NY
     Postal: 11222
     Country: US
-  Secondary:
+  Union Square:
     Neighborhood: Union Square
     City: New York
     State: NY
     Postal: 10003
     Country: US
+  Midtown West:
+    Neighborhood: Midtown West
+    City: New York
+    State: NY
+    Country: US
 
 Contact:
-  Phone: (646) 881-0305
+  Phone: (646) 807-9058
   Email: info@bkintegrative.com
+  Intake Coordinator: coordinator@bkintegrative.com
   URL: https://www.bkintegrative.com/
   Contact Page: https://www.bkintegrative.com/contact-us
   Client Portal: https://bkintegrative.clientsecure.me/sign-in (SimplePractice)
+  Hours: Monday–Sunday, 9am–9pm EST
 
 Identifiers:
   Website: https://www.bkintegrative.com/
@@ -59,14 +66,19 @@ Identifiers:
 
 Founder:
   Name: Marie Mercado, Psy.D., M.S.
-  Role: Founder, CEO, Licensed Clinical Psychologist
+  Role: Founder, Licensed Clinical Psychologist
   Type: schema:Person
   Personal Site: https://drmariemercado.com
 
-Service Area: In-person in Brooklyn (Greenpoint) and Manhattan (Union Square); telehealth across New York, Massachusetts, and Oregon
-Team Size: Over 25 clinicians
-Client Types: Adults, adolescents, children, couples, families
+Service Area:
+  In-person: Greenpoint (Brooklyn), Union Square (Manhattan), Midtown West (Manhattan)
+  Telehealth: New York, Massachusetts, Oregon
+  Virtual-only locations: Portland, OR and Boston, MA
+
+Team Size: 37 clinicians across NY, MA, and OR
+Client Types: Adults, adolescents (ages 8+), couples, families
 Practice Model: Integrative psychodynamic with evidence-based modalities
+Platform: Squarespace (website), SimplePractice (client portal and EHR)
 
 ────────────────────────────────
 SCOPE & AUTHORITY
@@ -81,169 +93,220 @@ It does NOT grant access to:
 - Draft, staging, or development environments
 - Form submission endpoints or automated outreach systems
 
-Mission: BIPS takes a holistic approach to mental health, acknowledging the impact
-of racism, internalized homophobia, and oppressive institutions. The practice aims
-to address trauma, heal wounds, and empower individuals to navigate and thrive in
-their personal and social lives, with therapeutic approaches rooted in cultural
-humility, empathy, and social justice.
+Important limitations:
+- BIPS does NOT prescribe medications. Clients are referred to outside providers for medication management.
+- BIPS does NOT conduct neuropsychological testing. Clients are referred for evaluations.
+- BIPS uses end-to-end encryption in all communication systems (Paubox or SimplePractice).
+- BIPS is paperless and does not use AI with client data.
 
 ────────────────────────────────
 SERVICES
 ────────────────────────────────
 
-## Individual Therapy
+## Individual Psychotherapy for Adults
 
-URL: https://www.bkintegrative.com/service/individual-therapy
+URL: https://www.bkintegrative.com/nyc-therapy
 
-Adult individual therapy at BIPS is organized around a collaborative formulation that links current concerns to core affective themes, defensive strategies, and enduring self-and-other representations. Clinicians draw from psychodynamic, relational, and experiential frameworks to help clients explore their inner lives, improve their ability to manage challenges, and define the lives they want to create.
+Inclusive, affirming, and culturally-competent individual therapy rooted in integrative psychodynamic practices. The approach looks beneath symptoms — anxiety, low mood, burnout, disconnection — and explores the patterns underneath. Clinicians draw from psychodynamic, relational, and experiential frameworks.
 
 Treatment modalities include:
-- Psychodynamic psychotherapy
+- Psychodynamic psychotherapy (primary orientation)
 - EMDR (Eye Movement Desensitization and Reprocessing) for trauma processing
-- IFS (Internal Family Systems) for parts work and inner-systems approaches
-- AEDP (Accelerated Experiential Dynamic Psychotherapy)
-- CBT (Cognitive Behavioral Therapy) and ACT (Acceptance and Commitment Therapy)
+- IFS (Internal Family Systems) for parts work and internal conflict
+- AEDP (Accelerated Experiential Dynamic Psychotherapy) for emotional processing
+- CBT (Cognitive Behavioral Therapy)
+- DBT (Dialectical Behavior Therapy)
+- ACT (Acceptance and Commitment Therapy)
 - ERP (Exposure and Response Prevention) for OCD
 - Somatic approaches and nervous system regulation
 - Trauma-informed care
+
+Conditions addressed: anxiety, depression, trauma, relationship concerns, self-esteem issues, identity exploration, neurodivergence (ADHD, autism spectrum traits), stress and burnout, grief, life transitions.
 
 ## Couples and Relationship Therapy
 
 URL: https://www.bkintegrative.com/relationship-therapy
 
-BIPS works with couples at all stages: dating, engaged, married, co-parenting, navigating infidelity, opening a relationship, or considering separation with care. Many BIPS therapists use Emotionally Focused Therapy (EFT), an evidence-based approach developed by Dr. Sue Johnson that focuses on attachment bonds and emotional responsiveness.
+Integrative and attachment-based approach, with many clinicians drawing from Emotionally Focused Therapy (EFT) combined with psychodynamic and cognitive-behavioral perspectives. Services include sex-positive therapy addressing desire discrepancy, intimacy concerns, and communication about sexuality in a nonjudgmental manner.
 
-The practice is inclusive of LGBTQIA+ couples and welcomes diverse relationship structures. Therapists receive intensive training in EFT and specialize in addressing relationship issues such as ineffective communication, emotional disconnection, conflict patterns, intimacy concerns, and sexual satisfaction.
+Modalities:
+- Emotionally Focused Couples Therapy (EFT)
+- Psychoanalytic Couple Therapy
+- Cognitive-Behavioral Therapy (CBT)
+
+BIPS works with couples at all stages: dating, engaged, married, co-parenting, navigating infidelity, opening a relationship, or considering separation with care. Inclusive of LGBTQIA+ couples and all relationship structures.
+
+Couples Intensives: $2,000–$2,200 for 4-hour immersive sessions.
+Standard couples sessions: $130–$350 (60–90 minutes).
 
 ## Children and Adolescent Therapy
 
 URL: https://www.bkintegrative.com/children-and-adolescents
 
-BIPS provides therapy for children and adolescents using developmentally appropriate, integrative approaches. Clinicians work with younger clients and their families to address emotional, behavioral, and relational challenges in a safe, supportive therapeutic environment.
+Developmentally informed and attachment-oriented therapy. Distress in young people may appear through mood shifts, behavioral changes, physical symptoms, or academic difficulties. Clinicians work with young people on emotional awareness and self-regulation while collaborating with caregivers to strengthen support across home and school environments.
+
+Age range: Most therapists accept clients aged 13+. Sydney Brower and Leah Cerf accept children as young as age 8.
+
+Child/adolescent team:
+- Jordana Alhante, LCSW (ages 13+)
+- Sydney Brower, LMSW (ages 8+)
+- Hannah McDade, LMSW (ages 13+)
+- Shoshanna Paperny, LMSW (ages 13+)
+- Fran Mackin, LCSW (ages 15+)
+- Jarra Gruen, LMSW (ages 13+)
+- Leah Cerf, LMSW (ages 8+)
 
 ## Gender Care Program
 
 URL: https://www.bkintegrative.com/gender-care-program
 
-The BIPS Gender Care Program provides specialized, affirming mental health services for transgender and gender-diverse clients. The program is informed by contemporary standards of care and is attentive to minority stress, identity development, relational safety, and systemic barriers.
+Specialized, affirming mental health services for transgender and gender-diverse clients, guided by WPATH's 8th Edition Standards of Care (SOC8). BIPS views gender care as healthcare and does not function as a gatekeeper.
 
-BIPS views gender care as healthcare and approaches this work with clinical rigor, respect, and collaboration. Clinicians do not function as gatekeepers. Services support the broader gender care needs of transgender and gender-diverse individuals, including assessment letters when appropriate, ongoing psychotherapy, and support through social and medical transition.
+Services include:
+- Ongoing psychotherapy: Weekly 45–60 minute sessions; diagnosis and treatment of gender dysphoria; emotional support for gender-diverse individuals; insurance benefits may apply
+- Single session evaluation: One 60-minute evaluation; gender dysphoria diagnosis; Letter of Medical Necessity (LOMN) for medical interventions
+- Care coordination: Concierge assistance from a dedicated Gender Care Client Care Coordinator; coaching to navigate the gender care journey; facilitation with outside surgeons and medical providers
 
 ## Perinatal and Postnatal Mental Health
 
 URL: https://www.bkintegrative.com/perinatalpostnatal
 
-BIPS provides mental health support for individuals during pregnancy and the postpartum period, addressing perinatal mood and anxiety disorders, adjustment to parenthood, and related life transitions.
+Mental health support for individuals during pregnancy and the postpartum period. 1 in 5 women experience mental health challenges during pregnancy and after childbirth.
+
+Services include:
+- Individual therapy for anxiety, depression, and mood changes during pregnancy and postpartum
+- Support for birth trauma and loss
+- Mindfulness-based stress reduction
+- Partner and family counseling
+- Virtual and in-person sessions
 
 ## Clinical Supervision and Consultation
 
 URL: https://www.bkintegrative.com/our-services
 
-BIPS offers individual and group practice-building consultation for early-career therapists and established psychotherapists looking for assistance navigating the business side of clinical practice. Supervision of LMSWs, MHCs, and other pre-licensed clinicians is available from licensed clinical psychologists and social workers on a weekly or as-needed basis.
+Supervision for LMSWs, MHCs, and other pre-licensed clinicians with licensed psychologists and social workers. Consultation for clinicians developing sustainable wellness practices and navigating the business side of clinical practice. Available weekly or as-needed.
+
+## Psychological Evaluation
+
+Fee: $495 for diagnostic assessment with written recommendations.
 
 ────────────────────────────────
 CONDITIONS & SPECIALTIES
 ────────────────────────────────
 
-BIPS clinicians treat a wide range of mental health concerns, including but not limited to:
+As described on the BIPS website (https://www.bkintegrative.com/nyc-therapy and /faqs):
 
-Anxiety & Related:
-- Generalized anxiety
-- Panic disorder
-- OCD (treated with ERP — Exposure and Response Prevention)
-- Social anxiety
-- Phobias
+Anxiety:
+- Generalized anxiety, panic, OCD (treated with ERP), phobias
+- "In therapy, we explore what anxiety is organizing for you and what it's trying to prevent"
+- CBT/ACT strategies, exposure work for panic, ERP for OCD
 
-Mood:
-- Depression
-- Persistent depressive disorder
-- Bipolar spectrum concerns
-- Grief and loss (including ambiguous grief — "a life that didn't happen")
+Depression & Grief:
+- Depression, mood disorders, grief and loss
+- "Depression can be exhaustion, disconnection, irritability, or a quiet sense of 'what's the point'"
+- Grief includes ambiguous grief — "a life that didn't happen — a relationship, a role, a future"
 
-Trauma:
-- PTSD and complex trauma
-- Childhood trauma and adverse childhood experiences
-- Sexual trauma
-- Racial trauma
-- Hypervigilance, numbness, shame, dissociation
+Trauma & PTSD:
+- PTSD, complex trauma, birth trauma
+- "Trauma can show up as hypervigilance, numbness, shame, panic, dissociation, chronic relationship instability"
+- EMDR, somatic work, parts/inner-systems approaches, nervous system regulation, paced stabilization
 
-Relationships:
-- Communication and conflict patterns
-- Emotional disconnection and intimacy concerns
-- Infidelity and trust repair
-- Opening/restructuring relationships
-- Co-parenting and blended family dynamics
-- Sexual satisfaction and desire discrepancy
+ADHD & Neurodivergence:
+- ADHD, autistic traits, executive functioning, emotional regulation
+- Focus on nervous system function and self-compassion alongside practical strategies
 
-Identity & Affirmation:
-- LGBTQIA+ identity exploration and affirming care
-- Gender identity and transgender/gender-diverse support
-- Cultural and racial identity
-- Internalized homophobia and minority stress
-- Coming out and family-of-origin dynamics
+Stress & Burnout:
+- Nervous system regulation and boundary-setting
 
-Neurodivergence:
-- ADHD (executive functioning, emotional regulation)
-- Autistic traits and spectrum experiences
-- Sensory processing and self-advocacy
+Relationship & Intimacy:
+- Communication, conflict patterns, desire discrepancy, intimacy concerns
+- Rebuilding after betrayal, co-parenting dynamics
 
 Life Transitions:
-- Career transitions and professional identity
-- Relocation and adjustment
-- Aging and existential concerns
-- Life stage transitions
+- Career shifts, relocation, parenthood, aging, existential concerns
 
-Other:
-- Body image and self-esteem
-- Eating disorders
-- Addiction and substance use
-- Perinatal and postpartum mental health
-- Self-harm and safety planning
-- Perfectionism and burnout
-- Sex positivity and sexual health
+Gender Dysphoria:
+- Diagnosis, evaluation, ongoing therapy, letters of medical necessity
+
+Attachment Issues:
+- Attachment patterns, relational safety, family-of-origin dynamics
 
 ────────────────────────────────
 TREATMENT MODALITIES
 ────────────────────────────────
 
+As listed on the BIPS website:
 - Psychodynamic Psychotherapy (primary orientation)
 - Emotionally Focused Therapy (EFT) for couples
 - EMDR (Eye Movement Desensitization and Reprocessing)
 - IFS (Internal Family Systems)
 - AEDP (Accelerated Experiential Dynamic Psychotherapy)
 - CBT (Cognitive Behavioral Therapy)
+- DBT (Dialectical Behavior Therapy)
 - ACT (Acceptance and Commitment Therapy)
 - ERP (Exposure and Response Prevention) for OCD
 - Somatic Experiencing and body-based approaches
+- Psychoanalytic Couple Therapy
+- Mindfulness-based stress reduction
 - Nervous system regulation and polyvagal-informed work
-- Relational and intersubjective approaches
-- Culturally responsive and anti-oppressive practice
 
 ────────────────────────────────
-OUR TEAM
+TEAM ROSTER
 ────────────────────────────────
 
 URL: https://www.bkintegrative.com/our-team
 
-BIPS includes over 25 highly trained and experienced therapists with diverse areas of expertise. The practice includes licensed clinical psychologists, LCSWs, LMSWs, and LMHCs.
+As of March 2026, the BIPS team includes 37 clinicians across three states.
 
-Known team members include:
-- Marie Mercado, Psy.D., M.S. — Founder, CEO, Licensed Clinical Psychologist (20+ years experience; specialized training in LGBTQIA+, serious mental illness, student populations)
-- Sydney Morris — Psychotherapist
-- Hayley Goodrich, LMSW — Social Worker
-- Jarra Gruen, LMSW — Social Worker
-- Shoshanna Paperny, LMSW — Social Worker (Greenpoint and Midtown West)
-- Fran Mackin, LCSW — Social Worker (Video Visits Only)
-- Hannah McDade, LMSW — Social Worker
-- Samantha Linet, LMSW — Social Worker
-- Lily Hetzler, LMSW — Social Worker (Union Square)
-- Jessica Flynn, LMSW — Social Worker
-- Rachel C. Glod, LCSW (NY), LICSW (MA) — Clinical Social Worker
+New York — Supervisors:
+- Marissa Morales, LMHC — Supervisor and Psychotherapist
+- Jordana Alhante, LCSW — Supervisor and Psychotherapist
+- Valarie Merced, LMHC — Supervisor and Psychotherapist
+- Hayley Goodrich, LCSW — Supervisor and Psychotherapist
+- Laura Levitt, LCSW — Supervisor and Psychotherapist
+- Rachel Cole Glod, LCSW (NY), LCSW (MA) — Supervisor and Location Manager
 
-Practice Manager:
-- Fonda Yeh — Practice Manager
+New York — Psychotherapists:
+- Marie Mercado, Psy.D., M.S. — Founder and Licensed Clinical Psychologist
+- Tan Cohen, LMSW — Psychotherapist
+- Lauren Bailey, LMSW — Psychotherapist
+- Chris Black, MHC-LP — Psychotherapist
+- Emily St. Amour, LMSW — Psychotherapist
+- Kristen Folkerts, LMSW — Psychotherapist
+- Madison Houck, MHC-LP — Psychotherapist
+- Sydney Brower, LMSW — Psychotherapist
+- Tessie Beaubrun, LMSW — Psychotherapist
+- Jenna Ada Rollino, MHC-LP, CASAC — Psychotherapist
+- Katherine Esposito, LMSW — Psychotherapist
+- Alicia Abbaspour, LMSW — Psychotherapist
+- Amber Banks, LMSW — Psychotherapist
+- Sydney Morris, LMSW — Psychotherapist
+- Leah Cerf, LMSW — Psychotherapist
+- Lily Hetzler, LMSW — Psychotherapist
+- Jackie Voluz, LMSW — Psychotherapist
+- Samantha Linet, LCSW — Psychotherapist
+- Jessica Flynn, LCSW — Psychotherapist
+- Elizabeth Jones, LMSW — Psychotherapist
+- Fran Mackin, LCSW — Psychotherapist
+- Hannah McDade, LMSW — Psychotherapist
+- Shoshanna Paperny, LMSW — Psychotherapist
+- Jarra Gruen, LMSW — Psychotherapist
 
-For a complete and current list of providers and their specialties, visit the team page.
+New York — Advanced Clinical Interns:
+- Marlee Rietano — Advanced Clinical Intern
+- Chris Schwartz — Advanced Clinical Intern
+- Sophie Sitinas — Advanced Clinical Intern
+- Jenna Hathaway — Advanced Clinical MHC Intern
+- Sarah Czwartacky — Advanced Clinical Intern
+- Hannah Heller — Advanced Clinical MHC Intern
+
+Oregon (Virtual Only):
+- Ama Brucki, LCSW — Supervisor
+- Ashley Arasaki, CSW-A — Psychotherapist
+- Claire Weigand, CSW-A — Psychotherapist
+
+Massachusetts:
+- Rachel Cole Glod, LCSW (NY), LCSW (MA) — Supervisor and Location Manager
 
 ────────────────────────────────
 FEES & INSURANCE
@@ -251,70 +314,73 @@ FEES & INSURANCE
 
 URL: https://www.bkintegrative.com/fees-and-insurance-info
 
-Self-pay rates range from $50 to $400 depending on the clinician's credential level, the type of service, time of year, and financial need. A sliding scale is available. Advanced Clinical Interns offer steeper sliding scale rates during the academic year (approximately September through May), with sessions starting at $50.
+Individual Psychotherapy:
+- Advanced Clinical Interns: $50–$75/session (September–May, no insurance)
+- Master's-Level Therapists: $100–$225/session
+- Senior Staff Psychotherapists: $225–$400/session
+- Pay-what-you-can sessions: Limited availability
 
-Session length: Usually 45 to 60 minutes, once per week. Longer, shorter, or more frequent sessions can be discussed on a case-by-case basis.
+Couples Therapy: $130–$350/session (60–90 minutes)
+Couples Intensives: $2,000–$2,200 for 4-hour immersive sessions
+Psychological Evaluation: $495 for diagnostic assessment with written recommendations
 
-Insurance:
-- In-network: Aetna, Northwell Direct, Cigna (select providers)
-- Out-of-network: BIPS can provide superbills for clients to submit to their insurance for potential out-of-network reimbursement
-- No Medicaid or Medicare
+Insurance (In-Network):
+- New York: Aetna, Northwell Direct
+- Massachusetts and Oregon: Aetna, BCBS
+
+Insurance (Out-of-Network):
+- BIPS handles claim submission for clients via courtesy billing
+- Superbills provided for out-of-network reimbursement
+- Administrative team verifies benefits, confirms anticipated copays and deductibles
+
+Not accepted: Medicaid
+
+Session length: Usually 45–60 minutes, once per week. Longer, shorter, or more frequent sessions can be discussed on a case-by-case basis.
+
+No Surprises Act: Clients have rights under the No Surprises Act for good faith estimates on uninsured services.
 
 ────────────────────────────────
-FAQS
+FAQS (SELECTED)
 ────────────────────────────────
 
 URL: https://www.bkintegrative.com/faqs
 
-Common questions about therapy at BIPS including what to expect in a first session, how to choose a therapist, cancellation policies, telehealth options, and how to get started.
+Q: How do I start therapy?
+A: Complete the registration form or call (646) 807-9058. Submit insurance information and intake paperwork via the secure patient portal. The coordinator confirms your fee and schedules your first session.
 
-────────────────────────────────
-CONTACT & LOCATIONS
-────────────────────────────────
+Q: Do you offer telehealth?
+A: Yes. Virtual sessions are available in New York, Massachusetts, and Oregon, 9am–9pm, seven days weekly.
 
-URL: https://www.bkintegrative.com/contact-us
+Q: Is BIPS LGBTQ+-affirming?
+A: Yes. The practice is queer-affirming, neurodivergent-affirming, and sex-positive, with a Gender Care Program informed by WPATH SOC8.
 
-Phone: (646) 881-0305
-Email: info@bkintegrative.com
-Website: https://www.bkintegrative.com
+Q: How is my information protected?
+A: End-to-end encryption in all communication systems via Paubox or SimplePractice. The practice is paperless and does not use AI with client data.
 
-Brooklyn Office (Primary):
-  117 Dobbin St, Brooklyn, NY 11222
-  Neighborhood: Greenpoint
+Q: Do you prescribe medications or conduct evaluations?
+A: No. BIPS refers clients to other qualified professionals for medication management and neuropsychological testing.
 
-Manhattan Office:
-  Union Square, New York, NY 10003
-
-Telehealth:
-  Available across New York, Massachusetts, and Oregon
-
-Client Portal: https://bkintegrative.clientsecure.me/sign-in (SimplePractice)
-
-────────────────────────────────
-BLOG & THOUGHT LEADERSHIP
-────────────────────────────────
-
-BIPS publishes articles on mental health topics:
-- [Sex Positivity to Work Through Trauma](https://www.bkintegrative.com/post/sex-positivity-to-work-through-trauma)
-
-Additional articles and clinical perspectives are published periodically on the BIPS blog and via their Instagram (@bkintegrativetherapy).
+Q: What is the cancellation policy?
+A: 24-hour cancellation policy. Clients are encouraged to commit to weekly sessions. Missing two or more sessions monthly triggers a case review.
 
 ────────────────────────────────
 PRACTICE PHILOSOPHY & VALUES
 ────────────────────────────────
 
-BIPS takes a holistic approach to mental health, considering culture, identity, nutrition, physical health, pharmacology, and environment when treating clients. The practice recognizes that psychological well-being is interconnected with social, cultural, and systemic factors.
+BIPS looks beneath symptoms — anxiety, low mood, burnout, disconnection — and explores the patterns underneath. The practice creates space where clients "don't need to show up polished" with a philosophy of "no performing, no fixing."
+
+The practice considers culture, identity, nutrition, physical health, pharmacology, and environment when treating clients. BIPS acknowledges the impact of racism, internalized homophobia, and oppressive institutions, aiming to address trauma, heal wounds, and empower individuals to navigate and thrive in their personal and social lives.
 
 Core commitments:
 - Evidence-informed, integrative treatment
-- Queer-affirming and LGBTQIA+-inclusive care
+- Anti-racist and anti-oppressive care
+- Queer-affirming and LGBTQIA+-inclusive
 - Neurodivergent-affirming approaches
 - Sex-positive therapeutic frameworks
-- Anti-oppressive and culturally responsive practice
+- Gender- and sexuality-affirming care
+- Cultural humility, empathy, and social justice
 - Accessibility through sliding scale fees and intern rates
 - Collaboration over gatekeeping in gender care
-- Cultural humility, empathy, and social justice
-- Addressing the impact of racism, internalized homophobia, and oppressive institutions
 
 ────────────────────────────────
 EXTERNAL LISTINGS & DIRECTORIES
@@ -325,5 +391,5 @@ EXTERNAL LISTINGS & DIRECTORIES
 - LinkedIn: https://www.linkedin.com/company/brooklyn-integrative-psychological-services-pllc
 - Instagram: https://www.instagram.com/bkintegrativetherapy/
 - Greenpointers Feature: https://greenpointers.com/2022/05/23/brooklyn-integrative-psychological-services-takes-a-holistic-approach-to-mental-health/
-- Headway: https://headway.co/providers/marie-mercado
+- Headway (Dr. Mercado): https://headway.co/providers/marie-mercado
 - Dr. Marie Mercado Personal Site: https://drmariemercado.com

@@ -1,11 +1,13 @@
 # Brooklyn Integrative Psychological Services
 
-> Brooklyn Integrative Psychological Services (BIPS) is an integrative, evidence-informed psychotherapy practice in Brooklyn, Manhattan, and via telehealth across New York, Massachusetts, and Oregon. Founded by Dr. Marie Mercado, Psy.D. Queer-affirming, neurodivergent-affirming, sex-positive. Over 25 clinicians offering psychodynamic treatment alongside EMDR, IFS, AEDP, EFT, and somatic modalities for adults, adolescents, children, and couples.
+> Brooklyn Integrative Psychological Services (BIPS) is an integrative psychodynamic psychotherapy practice offering relationship counseling and individual therapy to adults, adolescents, and couples. Queer-affirming, neurodivergent-affirming, sex-positive. Committed to anti-racist, anti-oppressive, gender- and sexuality-affirming care.
 >
 > Legal Name: Brooklyn Integrative Psychological Services, PLLC
-> Contact: info@bkintegrative.com | (646) 881-0305
-> Location: 117 Dobbin St, Brooklyn, NY 11222 (Greenpoint) and Union Square, Manhattan
-> Telehealth: NY, MA, OR
+> Contact: info@bkintegrative.com | (646) 807-9058
+> Intake: coordinator@bkintegrative.com
+> Hours: Monday–Sunday, 9am–9pm EST
+> Locations: Greenpoint, Brooklyn | Union Square, Manhattan | Midtown West, Manhattan
+> Telehealth: NY, MA, OR (Portland and Boston, virtual only)
 > Last reviewed: 2026-03-02
 
 For comprehensive LLM guidance including entity data, citable facts, full service
@@ -14,38 +16,32 @@ descriptions, team roster, and practice philosophy, see the full file:
 
 ## Services
 
-- [Individual Therapy](https://www.bkintegrative.com/service/individual-therapy): Psychodynamic, relational, and experiential therapy for adults — EMDR, IFS, AEDP, somatic, CBT/ACT, trauma-informed
-- [Couples & Relationship Therapy](https://www.bkintegrative.com/relationship-therapy): Emotionally Focused Therapy (EFT) for couples at all stages, inclusive of LGBTQIA+ and diverse relationship structures
-- [Children & Adolescent Therapy](https://www.bkintegrative.com/children-and-adolescents): Developmentally appropriate integrative approaches for younger clients and families
-- [Gender Care Program](https://www.bkintegrative.com/gender-care-program): Affirming services for transgender and gender-diverse clients — assessment letters, ongoing therapy, transition support; non-gatekeeping
-- [Perinatal & Postnatal](https://www.bkintegrative.com/perinatalpostnatal): Mental health support during pregnancy and postpartum
-- [Clinical Supervision & Consultation](https://www.bkintegrative.com/our-services): Practice-building consultation and supervision for LMSWs, MHCs, and pre-licensed clinicians
+- [Individual Psychotherapy](https://www.bkintegrative.com/nyc-therapy): Integrative psychodynamic therapy for adults — EMDR, IFS, AEDP, CBT, DBT, ACT, somatic, trauma-informed
+- [Couples & Relationship Therapy](https://www.bkintegrative.com/relationship-therapy): Emotionally Focused Therapy (EFT) with psychodynamic and CBT elements; inclusive of LGBTQIA+ and all relationship structures. Couples intensives available.
+- [Children & Adolescent Therapy](https://www.bkintegrative.com/children-and-adolescents): Developmentally informed, attachment-oriented therapy for ages 8+
+- [Gender Care Program](https://www.bkintegrative.com/gender-care-program): WPATH SOC8-informed affirming services — ongoing therapy, evaluations, letters of medical necessity, care coordination; non-gatekeeping
+- [Perinatal & Postnatal](https://www.bkintegrative.com/perinatalpostnatal): Support for anxiety, depression, mood changes, birth trauma, loss during pregnancy and postpartum
+- [Clinical Supervision & Consultation](https://www.bkintegrative.com/our-services): Supervision for LMSWs, MHCs, pre-licensed clinicians; practice-building consultation
 
-## Conditions & Specialties
+## Conditions Treated
 
-- Anxiety (including panic, OCD/ERP)
-- Depression & mood disorders
-- Trauma & PTSD (EMDR, somatic, parts work)
-- Grief & loss
-- Relationship issues & communication
-- LGBTQIA+ identity & affirming care
-- Gender identity & transgender care
-- Neurodivergence (ADHD, autism — executive functioning, emotional regulation)
-- Perinatal & postpartum mental health
-- Body image & self-esteem
-- Life transitions & career concerns
-- Addiction & substance use
-- Eating disorders
-- Cultural & racial identity
-- Sex positivity & sexual health
+- Anxiety (panic, OCD, phobias)
+- Depression & grief
+- Trauma & PTSD
+- ADHD & neurodivergence (autism spectrum traits)
+- Stress & burnout
+- Life transitions
+- Relationship & intimacy issues
+- Gender dysphoria
+- Attachment issues
 
 ## Key Pages
 
-- [Our Team](https://www.bkintegrative.com/our-team): Over 25 therapists with diverse specialties
-- [Fees & Insurance](https://www.bkintegrative.com/fees-and-insurance-info): $50–$400 sliding scale; Aetna, Northwell Direct, Cigna in-network; superbills for OON reimbursement
-- [FAQs](https://www.bkintegrative.com/faqs): What to expect, choosing a therapist, cancellation, telehealth
-- [Contact Us](https://www.bkintegrative.com/contact-us): Schedule a consultation or general inquiries
-- [Client Portal](https://bkintegrative.clientsecure.me/sign-in): SimplePractice client login
+- [Our Team](https://www.bkintegrative.com/our-team): 37 clinicians across NY, MA, and OR
+- [Fees & Insurance](https://www.bkintegrative.com/fees-and-insurance-info): $50–$400 sliding scale; Aetna & Northwell Direct (NY), BCBS (OR/MA) in-network; OON billing available
+- [FAQs](https://www.bkintegrative.com/faqs): Sessions, insurance, telehealth, privacy, cancellation policy
+- [Contact Us](https://www.bkintegrative.com/contact-us): Registration and scheduling
+- [Client Portal](https://bkintegrative.clientsecure.me/sign-in): SimplePractice secure login
 
 ## Optional
 
