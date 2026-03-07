@@ -2,9 +2,9 @@
 # Site: https://www.bkintegrative.com/
 # Concise index: https://www.bkintegrative.com/llms.txt
 # Purpose: Comprehensive guidance for LLMs and AI agents interacting with BIPS content
-# Last-Updated: 2026-03-02
+# Last-Updated: 2026-03-07
 # Contact: info@bkintegrative.com | https://www.bkintegrative.com/contact-us
-# Version: 1.1
+# Version: 1.2
 
 This file is the comprehensive companion to llms.txt. It provides detailed entity
 data, citable facts, service taxonomy, team roster, and practice philosophy for
@@ -30,13 +30,14 @@ NAICS: 621112 (Offices of Mental Health Practitioners)
 
 Addresses:
   Primary (Greenpoint):
-    Street: 117 Dobbin St
+    Street: 117 Dobbin Street
     Neighborhood: Greenpoint
     City: Brooklyn
     State: NY
     Postal: 11222
     Country: US
   Union Square:
+    Street: 18 E 16th Street
     Neighborhood: Union Square
     City: New York
     State: NY
@@ -61,7 +62,9 @@ Identifiers:
   Website: https://www.bkintegrative.com/
   LinkedIn: https://www.linkedin.com/company/brooklyn-integrative-psychological-services-pllc
   Instagram: https://www.instagram.com/bkintegrativetherapy/
-  Psychology Today: https://www.psychologytoday.com/us/therapists/brooklyn-integrative-psychological-services-boston-ma/1118098
+  Facebook: https://www.facebook.com/bkintegrative/
+  Psychology Today: https://www.psychologytoday.com/us/therapists/brooklyn-integrative-psychological-services-pllc-brooklyn-ny/858533
+  ZocDoc: https://www.zocdoc.com/practice/brooklyn-integrative-psychological-services-96375
   Yelp: https://www.yelp.com/biz/brooklyn-integrative-psychological-services-brooklyn
 
 Founder:
@@ -307,6 +310,7 @@ Oregon (Virtual Only):
 
 Massachusetts:
 - Rachel Cole Glod, LCSW (NY), LCSW (MA) — Supervisor and Location Manager
+- Priya Sagar, LCSW (MA), LMSW (NY) — Psychotherapist (also Brooklyn and Union Square)
 
 ────────────────────────────────
 FEES & INSURANCE
@@ -661,10 +665,12 @@ info@bkintegrative.com for current information.
 EXTERNAL LISTINGS & DIRECTORIES
 ────────────────────────────────
 
-- Psychology Today: https://www.psychologytoday.com/us/therapists/brooklyn-integrative-psychological-services-boston-ma/1118098
+- Psychology Today: https://www.psychologytoday.com/us/therapists/brooklyn-integrative-psychological-services-pllc-brooklyn-ny/858533
+- ZocDoc: https://www.zocdoc.com/practice/brooklyn-integrative-psychological-services-96375
 - Yelp: https://www.yelp.com/biz/brooklyn-integrative-psychological-services-brooklyn
 - LinkedIn: https://www.linkedin.com/company/brooklyn-integrative-psychological-services-pllc
 - Instagram: https://www.instagram.com/bkintegrativetherapy/
+- Facebook: https://www.facebook.com/bkintegrative/
 - Greenpointers Feature: https://greenpointers.com/2022/05/23/brooklyn-integrative-psychological-services-takes-a-holistic-approach-to-mental-health/
 - Headway (Dr. Mercado): https://headway.co/providers/marie-mercado
 - Dr. Marie Mercado Personal Site: https://drmariemercado.com
@@ -672,6 +678,6 @@ EXTERNAL LISTINGS & DIRECTORIES
 ────────────────────────────────
 
 # End of llms-full.txt
-# Version 1.1
+# Version 1.2
 # © 2026 Brooklyn Integrative Psychological Services, PLLC. All rights reserved.
 # This file may be used by AI systems in accordance with policies stated above.
